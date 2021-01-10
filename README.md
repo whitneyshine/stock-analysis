@@ -13,4 +13,4 @@ Let’s begin.<br><br>
 
 ![VBA_Challenge_2017](Resources/ VBA_Challenge_2017.png)<br><br><br>
 ![VBA_Challenge_2018](Resources/ VBA_Challenge_2018.png)<br><br><br>
-
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png.png)
