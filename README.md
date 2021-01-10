@@ -12,6 +12,5 @@ Steve wants to do a deep dive on stocks over the last two years with a focus on 
 Let’s begin.<br><br>
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)<br>
 <br>
-![VBA_Challenge_2017}(Resources/ VBA_Challenge_2017.png)<br>
-![VBA_Challenge_2018](Resources/ VBA_Challenge_2018.png)<br><br><br>
-![Theater_Outcomes_vs_Launch}(Resources/Theater_Outcomes_vs_Launch.png.png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)<br>
+<br>
