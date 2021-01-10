@@ -11,9 +11,9 @@ Steve wants to do a deep dive on stocks over the last two years with a focus on 
 <br>
 Let’s begin.<br><br>
 <br>
-![VBA_Challenge_2017 Volumes and Returns](Resources/VBA_Challenge_2017 Volumes and Returns.png)<br>
+![VBA_Challenge_2017 Volumes_and_Returns](Resources/VBA_Challenge_2017 Volumes_and_Returns.png)<br>
 <br>
-![VBA_Challenge_2018 Volumes and Returns](Resources/VBA_Challenge_2018 Volumes and Returns.png)<br>
+![VBA_Challenge_2018 Volumes_and_Returns](Resources/VBA_Challenge_2018 Volumes_and_Returns.png)<br>
 <br>
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)<br>
 <br>
