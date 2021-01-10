@@ -1,8 +1,9 @@
 # VBA of Wall Street<br>
 Performing analysis on Wall Streets Tickers and reviewing their respective amount of volume traded for the years of 2017 and 2018.  We are also looking at stock performance for each year analyzed as well.<br>
+<br>
 **VBA Challenge<br><br>**
 
-**Overview of Project<br>**
+**Overview of Project<br><br>**
 **Purpose<br>**
 Steve loves stock data and he especially loves the marco that we have created for him today.  But with every great thing, we can always dig deeper to find one more step of greatness.<br>
 <br>
