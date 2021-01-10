@@ -16,3 +16,5 @@ Let’s begin.<br><br>
 <br>
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)<br>
 <br>
+![VBA_Challenge_2018_Original](Resources/VBA_Challenge_2018_Original.png)<br>
+<br>
