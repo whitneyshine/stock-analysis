@@ -49,5 +49,9 @@ The first thing that jumps to mind is the advantage of time saved with refactori
 <br>
 But that will lead you straight into a disadvantage of refactoring code.  If you did not create the code and do not understand what the code is trying to do or accomplish, you are going to create more problems than any amount of time you think you are going to save with the short cuts.  Beautiful codes come from beautiful minds.  It is not the lines that make the code work; it is the time that has been spent understanding and mapping out the purpose of the code you are about to undertake and truly defining the why behind the code.<br>
 <br>
+**How do these pros and cons apply to refactoring the original VBA script?**<br>
+<br>
+
+<br>
 I appreciate your time and thoughts while reviewing and grading the VBA Module Challenge. I look forward to your feedback and hope you have a great day.
 
