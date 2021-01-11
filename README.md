@@ -22,6 +22,7 @@ As soon as Steve executes the Macro, he is going to wish it was 2017 all over ag
 <br>
 **Execution Time of Scripts - Original vs. Refactored<br><br>**
 <br>
+**2017 Refactored Execution Time of Script<br>**
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)<br>
 <br>
 ![VBA_Challenge_2017_Original](Resources/VBA_Challenge_2017_Original.png)<br>
