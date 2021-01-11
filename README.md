@@ -43,6 +43,8 @@ As soon as Steve executes the Macro, he is going to wish it was 2017 all over ag
 <br>
 **Summary**<br>
 <br>
+**What are the advantages or disadvantages of refactoring code?**<br>
+<br>
 The first thing that jumps to mind is the advantage of time saved with refactoring code.  If you are working on similar outputs and data sets while just needing to make a few edits or changes here and there, refactoring is going to save you time.  And when we are looking at stock analysis – time is money and the more you have of time, hopefully it results in more money.   As you stay within the code and grow it, the code should evolve into a better code and allow you to grow as a coder as well.  I could see it also being a great source of communication with the coding community as it will engage feedback, conversation and improvement that would allow the code to grow with responsibility.<br>
 <br>
 But that will lead you straight into a disadvantage of refactoring code.  If you did not create the code and do not understand what the code is trying to do or accomplish, you are going to create more problems than any amount of time you think you are going to save with the short cuts.  Beautiful codes come from beautiful minds.  It is not the lines that make the code work; it is the time that has been spent understanding and mapping out the purpose of the code you are about to undertake and truly defining the why behind the code.<br>
