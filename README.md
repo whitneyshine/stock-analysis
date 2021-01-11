@@ -23,7 +23,7 @@ As soon as Steve executes the Macro, he is going to wish it was 2017 all over ag
 <br>
 **Execution Time of Scripts - Original vs. Refactored<br><br>**
 <br>
-My theory would have been that the refactored code would run slow because we added<br>
+My theory would have been that the refactored code would run slow because we added formatting to the code whereas in the Run Analysis code that we refactored, it was not engrained in the button process.  We coded the formatting in a separate exercise and whe we refactored, we added the formatting within the subroutine.  2017 was able to hold my theory true but not for 2018.  I would have to guess that I ran the refactored code more than the original code before I took the screenshots that would have allow Excel and VBA to process the refactored code more quickly.  Looks like that matters in VBA and the Olympics - ever tenth of a second counts and could be the difference between a gold medal or silver medal.<br>
 <br>
 **2017 Refactored Execution Time of Script<br>**
 <br>
