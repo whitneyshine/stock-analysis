@@ -36,6 +36,7 @@ As soon as Steve executes the Macro, he is going to wish it was 2017 all over ag
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)<br>
 <br>
 **2018 Original Execution Time of Script<br>**
+<br>
 ![VBA_Challenge_2018_Original](Resources/VBA_Challenge_2018_Original.png)<br>
 <br>
 ![VBA_Challenge_Code](Resources/VBA_Challenge_Code.png)<br>
