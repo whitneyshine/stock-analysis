@@ -51,7 +51,7 @@ But that will lead you straight into a disadvantage of refactoring code.  If you
 <br>
 **How do these pros and cons apply to refactoring the original VBA script?**<br>
 <br>
-
+For me, the pros of refactoring this code was that I experienced an ever so slight advantage with having to refactor only a portion with the All Stocks Analysis Marco we wrote in the earlier stages of the Module.  I could refer to the module and rethink through my steps while mapping out how we created or why I typed a specific line in the code and Macro process.  It saved me time because it allowed for me to focus on the Module requirements within the grading rubric, but it did not make me a better coder.  Reason being is because I have not had enough practice with VBA or codes that would allow me to jump to the refactoring process without forming my foundation. With that being said, I do believe being an extreme beginner in VBA did allow me to fail and communicate with my TA’s and tutor, which in turn, made me develop my skills, understanding and code.  I would not take on tomorrow with this code because I am not at a point that I would truly need to apply a refactoring code in day to day business.  I need to be going over code and creating it from the beginning, step by step so that I can eventually evolve into being able to refactor code after making a connection of how to use it in my line of work.
 <br>
 I appreciate your time and thoughts while reviewing and grading the VBA Module Challenge. I look forward to your feedback and hope you have a great day.
 
